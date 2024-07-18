@@ -11,6 +11,16 @@ Run python script train.py with variable parser arguments:
 --python train.py
 ```
 
+## From Authors
+- [x] Training code
+    - [x] Open HuggingFace model
+    - [x] Open training source code
+- [x] Training environment
+    - [x] Conda + Pip requirements.txt
+    - [ ] Dockerfile
+- [x] FTIRDataset
+  - [ ] Upload Dataset
+
 # **Citation**
 ```@article{doi:10.1021/acs.analchem.4c01622,
 author = {Doan, Vu Hoang Minh and Ly, Cao Duong and Mondal, Sudip and Truong, Thi Thuy and Nguyen, Tan Dung and Choi, Jaeyeop and Lee, Byeongil and Oh, Junghwan},
