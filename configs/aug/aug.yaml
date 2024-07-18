@@ -1,0 +1,13 @@
+author : 'Ly Cao Duong - 20231227'
+project : 'Ohlabs Functional Groups Classification'
+num_cls: 17
+max_sequence: 9
+p_noise: 0.3
+noise_db: [2, 20]
+p_revert: 0.3
+p_mask: 0.3
+mask_size: [0.01, 0.15]
+p_shiftLR: 0.3
+shiftLR_size: [0.01, 0.1]
+p_shiftUD: 0.3
+shiftUD_size: [0.01, 0.1]
