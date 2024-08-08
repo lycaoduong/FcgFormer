@@ -1,0 +1,12 @@
+author : 'Ly Cao Duong - 20231227'
+project : 'Ohlabs Functional Groups Classification'
+train_dir : './dataset/ftir/train'
+val_dir : './dataset/ftir/valid'
+test_dir : './dataset/ftir/test'
+#test_dir : './dataset/ftir/test/private'
+pos_dic: {0: "alkane", 1: "methyl", 2: "alkene", 3: "alkyne", 4: "alcohols", 5: "amines", 6: "nitriles", 7: "aromatics",
+          8: "alkyl halides", 9: "esters", 10: "ketones", 11: "aldehydes", 12: "carboxylic acids",
+          13: "ether", 14: "acyl halides", 15: "amides", 16: "nitro"}
+mean : [0.0, 0.0, 0.0]
+std : [1.0, 1.0, 1.0]
+num_cls: 17
