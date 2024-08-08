@@ -19,6 +19,7 @@ Run python script train.py with variable parser arguments:
     - [x] Conda + Pip requirements.txt
     - [ ] Dockerfile
 - [x] FTIRDataset
+  - [x] HFSpace: https://huggingface.co/spaces/lycaoduong/FcgFormerApp 
   - [x] Upload Dataset: https://huggingface.co/datasets/lycaoduong/FTIR
 
 # **Citation**
