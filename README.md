@@ -13,14 +13,14 @@ Run python script train.py with variable parser arguments:
 
 ## From Authors
 - [x] Training code
-    - [x] Open HuggingFace model
-    - [x] Open training source code
+    - [x] Release HuggingFace model
+    - [x] Release training source code
 - [x] Training environment
-    - [x] Conda + Pip requirements.txt
-    - [ ] Dockerfile
+    - [x] Release Conda + Pip requirements.txt
+    - [ ] Release Dockerfile
 - [x] FTIRDataset
-  - [x] HFSpace: https://huggingface.co/spaces/lycaoduong/FcgFormerApp 
-  - [x] Upload Dataset: https://huggingface.co/datasets/lycaoduong/FTIR
+  - [x] Release HFSpace: https://huggingface.co/spaces/lycaoduong/FcgFormerApp 
+  - [x] Release Dataset: https://huggingface.co/datasets/lycaoduong/FTIR
 
 # **Citation**
 ```@article{doan2024fcg,
