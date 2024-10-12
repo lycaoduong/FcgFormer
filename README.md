@@ -33,6 +33,7 @@ Run python script train.py with variable parser arguments:
 - [x] FTIRDataset
   - [x] Release HFSpace: https://huggingface.co/spaces/lycaoduong/FcgFormerApp 
   - [x] Release Dataset: https://huggingface.co/datasets/lycaoduong/FTIR
+  - [x] Release Model Card: https://huggingface.co/lycaoduong/FcgFormer
 
 # **Citation**
 ```@article{doan2024fcg,
